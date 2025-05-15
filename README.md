@@ -1,10 +1,12 @@
 
- ![](https://github.com/Alabimutiu/Coffee-Shop-Sales-Dashboard/blob/main/Dashboard.PNG)
+ ![](https://github.com/Alabimutiu/Road-Accident-Dashboard/blob/main/Road%20Accident%20Dashboard.PNG)
 🚦 Road Accident Dashboard Analysis
 This project presents a comprehensive Road Accident Dashboard built using Power BI, analyzing national road traffic accident data to uncover trends, high-risk areas, and key contributing factors. The dashboard visually highlights various dimensions such as accident severity, road types, surface conditions, time trends, and vehicle types involved.
 
 📊 Dashboard Overview
 The dashboard visualizes 417,883 total casualties from road traffic incidents and breaks them down into multiple categories:
+
+ ![](https://github.com/Alabimutiu/Road-Accident-Dashboard/blob/main/Road%20Accident%20Dashboard.PNG)
 
 🔢 Casualty Severity Breakdown
 Total Casualties: 417,883
