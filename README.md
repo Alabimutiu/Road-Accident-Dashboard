@@ -73,17 +73,6 @@ The dashboard visualizes **417,883** total casualties from road traffic incident
 
 ---
 
-## 🧱 Filters and Interactivity
-
-The dashboard includes slicers for:
-
-* **Accident Year (2021–2023)**
-* **Urban/Rural Classification**
-
-These filters enable dynamic exploration of data trends across time and location.
-
----
-
 ## 📌 Key Insights and Recommendations
 
 1. **Improve Lighting & Visibility:** A high number of accidents in dark conditions suggests the need for better street lighting and reflective road signs.
@@ -116,10 +105,3 @@ For any opportunities:
 **Name:** [Mutiu Sulaimon]
 **Email:** [alabimutiu2011@gmail.com]
 **LinkedIn:** [https://www.linkedin.com/in/mutiu-sulaimon-7b604367/]
-
-
-
-**Name:** \[Your Name]
-**Email:** \[Your Email]
-**LinkedIn:** \[Your LinkedIn URL]
-
