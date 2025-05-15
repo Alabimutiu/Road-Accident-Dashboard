@@ -113,10 +113,6 @@ These filters enable dynamic exploration of data trends across time and location
 
 For any opportunities:
 
-**Name:** \[Mutiu Sulaimon]
-**Email:** \[alabimutiu2011@gmail.com]
-**LinkedIn:** \[https://www.linkedin.com/in/mutiu-sulaimon-7b604367/]
----
-
-
-
+**Name:** [Mutiu Sulaimon]
+**Email:** [alabimutiu2011@gmail.com]
+**LinkedIn:** [https://www.linkedin.com/in/mutiu-sulaimon-7b604367/]
