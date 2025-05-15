@@ -98,10 +98,13 @@ The dashboard visualizes **417,883** total casualties from road traffic incident
 
 ---
 
-## 📬 Contact
+## 👨‍💻 Author--Mutiu Sulaimon
 
-For any opportunities:
+*This project is part of my data analytics portfolio, showcasing Micrisoft Excel skills in data analysis.*
 
-**Name:** [Mutiu Sulaimon]
-**Email:** [alabimutiu2011@gmail.com]
-**LinkedIn:** [https://www.linkedin.com/in/mutiu-sulaimon-7b604367/]
+### Connect with me
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/mutiu-sulaimon-7b604367/)
+
+Thank you for your support, and I look forward to connecting with you!
+
+---
