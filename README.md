@@ -5,8 +5,8 @@ This project presents a comprehensive **Road Accident Analysis** built using **M
 ---
 
 ## 📊 Dashboard Overview
-
-
+ ![](https://github.com/Alabimutiu/Coffee-Shop-Sales-Dashboard/blob/main/Dashboard.PNG)
+ ![](https://github.com/Alabimutiu/Coffee-Shop-Sales-Dashboard/blob/main/Dashboard.PNG)
 The dashboard visualizes **417,883** total casualties from road traffic incidents and breaks them down into multiple categories:
 
 ### 🔢 **Casualty Severity Breakdown**
