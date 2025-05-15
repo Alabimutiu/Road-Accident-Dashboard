@@ -8,7 +8,7 @@ This project presents a comprehensive Road Accident Dashboard built using Power 
 
     ![](https://github.com/Alabimutiu/Road-Accident-Dashboard/blob/main/Road%20Accident%20Dashboard.PNG)
 
-##🔢 Casualty Severity Breakdown
+###🔢 Casualty Severity Breakdown
 -**Total Casualties:** 417,883
 Fatal Casualties: 7,135 (1.7%)
 Serious Casualties: 59,312 (14.2%)
