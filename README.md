@@ -85,7 +85,7 @@ The dashboard visualizes **417,883** total casualties from road traffic incident
 
 ## 📁 Project Files
 
-* `Road Accident Dashboard.pbix`: Power BI dashboard file
+* `Road Accident.xls`: 
 * `README.md`: Project documentation and insights (this file)
 * Source data: \[Kaggle]
 
