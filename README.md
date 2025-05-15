@@ -1,6 +1,6 @@
 # 🚦 Road Accident Dashboard Analysis
 
-This project presents a comprehensive **Road Accident Analysis** built using **Excel**, analyzing national road traffic accident data to uncover trends, high-risk areas, and key contributing factors. The dashboard visually highlights various dimensions such as accident severity, road types, surface conditions, time trends, and vehicle types involved.
+This project presents a comprehensive **Road Accident Analysis** built using **Microsoft Excel**, analyzing national road traffic accident data to uncover trends, high-risk areas, and key contributing factors. The dashboard visually highlights various dimensions such as accident severity, road types, surface conditions, time trends, and vehicle types involved.
 
 ---
 
